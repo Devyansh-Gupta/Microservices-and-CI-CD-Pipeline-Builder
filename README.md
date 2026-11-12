@@ -40,3 +40,29 @@ The application consists of two microservices:
 ## Result
 
 The Customer and Employee microservices were successfully containerized and deployed on AWS with a CI/CD workflow using CodeCommit, CodePipeline, and CodeDeploy.
+
+<!-- BACKUP-SETUP -->
+## Local setup / restore
+
+This repository is a **backup copy** made before a machine reformat.
+
+| | |
+|---|---|
+| Original location on disk | `C:\Users\Admin\Documents\Projects\Microservices-and-CI-CD-Pipeline-Builder` |
+| Original remote | `https://github.com/Devyansh-Gupta/Microservices-and-CI-CD-Pipeline-Builder.git` |
+| Backup remote (this repo) | `https://github.com/Devyansh-Gupta/Microservices-and-CI-CD-Pipeline-Builder` |
+
+### Prerequisites
+
+- Git
+
+### Setup
+No dependency manifest was detected in this folder. The files are archived as-is - open them directly, or see the notes below.
+
+### What is *not* in this backup
+
+These are regenerable and were deliberately excluded (see `.gitignore`):
+
+`node_modules/`  `.venv/`  `dist/`  `build/`  `target/`  `.next/`  `__pycache__/`  `.tools/`  `.pytest_cache/`
+
+Run the setup steps above to recreate them.
